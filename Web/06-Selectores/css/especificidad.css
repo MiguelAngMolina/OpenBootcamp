@@ -1,0 +1,17 @@
+/* 1. !Important
+2. Clase+id+elemento
+3. id
+4.clase
+5. elemento*/
+h1{
+    color:blue !important;
+}
+h1#h1-id.h1-clase{
+    color: yellow;
+}
+#h1-id{
+    color: aqua;
+}
+p{
+    color:red;
+}

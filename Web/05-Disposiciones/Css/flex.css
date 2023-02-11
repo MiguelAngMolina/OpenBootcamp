@@ -1,0 +1,30 @@
+/* https://codepen.io/enxaneta/full/adLPwv/ */
+
+.flex{
+    display: flex; /* Posicionar todo lo que esta dentro del div de manera ordenada, por defecto lo hace en una fila */
+    background-color: yellow;
+    flex-direction: row;
+    height: 300px;
+    justify-content: space-around;
+    align-items: center;
+}
+.contenido-1{
+    /* height: 200px; */
+    width: 100px;
+    background-color: white;
+    border: 1px solid blue ;
+}
+
+.contenido-2{
+    /* height: 200px; */
+    width: 100px;
+    background-color: white;
+    border: 1px solid blue ;
+}
+
+.contenido-3{
+    /* height: 200px; */
+    width: 100px;
+    background-color: pink;
+    border: 1px solid blue ;
+}

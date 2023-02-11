@@ -1,0 +1,53 @@
+/* Estilos para colores coolors.co*/
+.colores{
+    color:red
+}
+
+.color-hexadecimal{
+    color: #A76D60
+}
+
+.color-rgb{
+    color: rgb(100, 0, 200)
+}
+
+.color-rgba{
+    color:rgba(100, 0, 200, 0.5)
+}
+
+/* Fondos */
+
+.fondo{
+    /* background-color: #A76D60; */
+    background-image: url("https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg");
+    background-position: right bottom; 
+}
+
+.fondo-interno{
+    /* background-color: #A76D60; */
+    background-image: url("Imagenes/fondo.png");
+    background-position: right bottom; 
+}
+
+
+/* Tamaños */
+
+.ancho{
+    background-color: green;
+    width: 300px;
+}
+
+.alto{
+    background-color: aquamarine;
+    height: 200px;
+}
+
+.tarjeta{
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    border-width: 1px;
+    padding: 10px 20px ;  
+    /* padding: 10px 20px 30px 40px; */
+    /* border-top: none; */
+    margin: 10px 20px;
+}
